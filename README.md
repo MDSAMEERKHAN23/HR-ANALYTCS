@@ -20,6 +20,8 @@ An interactive HR Analytics Dashboard built using Power BI to analyze employee d
 * Data Modeling
 * Interactive Dashboards & Data Visualization**
 
+SCREENSHOT OF PROJECT=https://github.com/MDSAMEERKHAN23/HR-ANALYTCS/blob/main/Screenshot%202026-09-15%20082652.png
+
  Objective
 
 The main objective of this project was to transform raw HR data into an interactive dashboard that helps identify workforce patterns, monitor attrition, and provide meaningful insights for better HR decision-making.
